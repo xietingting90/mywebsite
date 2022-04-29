@@ -8,4 +8,4 @@ jobs:
     - name: echo the date
       run: echo"The Current time and date is $(date)"
     - name: echo the current branch
-      run: echo ${{github.ref_name}}
+      run: echo ${{ github.ref_name }}
