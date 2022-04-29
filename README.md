@@ -8,4 +8,5 @@
 This is my first attempt at creating a git repo
 <h1>this is my feature-1</h1>
 
-<img src="picture.jpg">
+
+ <img src="dog.jpg" alt="dog picture">
