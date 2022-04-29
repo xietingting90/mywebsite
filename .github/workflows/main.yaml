@@ -1,5 +1,5 @@
 name: my first workflow
-On:
+on:
   push:
 jobs:
   echo_the-date:
